@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <style>
+            #hcg-slider-1 .hcg-slide-container {
+                width: auto;
+                height: auto;
+            }
+            .hcg-slider {
+                text-align: center;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            .hcg-slide-container {
+                max-width: 100%;
+                display: inline-block;
+                position: relative;
+            }
+            .hcg-slides {
+                display: none;
+                overflow: hidden;
+                justify-content: center;
+                align-items: center;
+                border-radius: 5px;
+                border: solid 1px #a0a0a0;
+            }
+            .hcg-slides img {
+                max-width: 100%;
+                max-height: 100%;
+                display: inline-block;
+            }
+            .hcg-slide-text {
+                color: #ffffff;
+                font-size: 14px;
+                padding: 3px 5px;
+                position: absolute;
+                bottom: 0;
+                border-radius: 5px;
+                left: 50%;
+                text-align: center;
+                text-shadow: 0 0 2px #000;
+                background-color: rgba(255,255,255,0.30);
+                display: inline-block;
+                transform: translate(-50%, -5px);
+            }
+            #hcg-slide-prev, #hcg-slide-next {
+                cursor: pointer;
+                position: absolute;
+                top: 50%;
+                width: auto;
+                padding: 16px;
+                margin-top: -22px;
+                color: #ff0000;
+                font-weight: bold;
+                font-size: 28px;
+                transition: 0.6s ease;
+                border-radius: 0 3px 3px 0;
+                text-decoration: none;
+                text-shadow: 1px 1px 5px #686868;
+                background-color: #686868;
+            }
+            #hcg-slide-next {
+                right: 0;
+                border-radius: 3px 0 0 3px;
+            }
+            #hcg-slide-prev {
+                left: 0;
+                border-radius: 0 3px 3px 0;
+            }
+            #hcg-slide-prev:hover, #hcg-slide-next:hover {
+                background-color: #000c;
+            }
+            .hcg-slide-dot-control {
+                margin-top: 10px;
+                text-align: center;
+            }
+            .hcg-slide-dot {
+                cursor: pointer;
+                height: 13px;
+                width: 13px;
+                margin: 0 2px;
+                background-color: #bbb;
+                border-radius: 50%;
+                display: inline-block;
+            }
+            .hcg-slide-dot.dot-active {
+                background-color: #717171;
+            }
+            .hcg-slide-number {
+                color: #ffffff;
+                font-size: 12px;
+                padding: 4px 7px;
+                position: absolute;
+                border-radius: 5px;
+                top: 5px;
+                left: 5px;
+                background-color: rgba(255,255,255,0.30);
+            }
+            /************CSS Animation***********/
+            
+            .animated { 
+                animation-name: fadeIn; 
+                animation-duration: 1s;
+            }
+            @keyframes fadeIn {
+                0% {
+                    opacity: 0;
+                }
+                100% {
+                    opacity: 1;
+                }
+            }
+            .fadeIn {
+                animation-name: fadeIn;
+            }
+            
+            
+            </style>
+    </head>
+    <body>
+
+        <div id="hcg-slider-1" class="hcg-slider">
+            <div class="hcg-slide-container">
+            <div class="hcg-slider-body">
+                <a class="hcg-slides animated" style="display:flex">
+                    <span class="hcg-slide-number">1/5</span>
+                    <img src="https://www.html-code-generator.com/images/slider/1.png" alt="image 1">
+                    <span class="hcg-slide-text">image 1</span>
+                </a>
+            </div>
+            <a href="#" id="hcg-slide-prev">❮</a>
+            <a href="#" id="hcg-slide-next">❯</a>
+        </div>
+        <div class="hcg-slide-dot-control"></div>
+        </div>
+        
+        <!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        
+        <script src="" async defer></script>
+    </body>
+</html>
