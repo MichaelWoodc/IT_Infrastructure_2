@@ -1,8 +1,8 @@
 import os
 
 # Define the base URL and subdirectory
-base_url = "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/"
-subdirectory = "3_install_joomla"
+base_url = "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/"
+subdirectory = "joomla_customization"
 
 # Path to the subdirectory
 path = os.path.join(os.getcwd(), subdirectory)

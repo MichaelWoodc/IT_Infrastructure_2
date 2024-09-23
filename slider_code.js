@@ -5,226 +5,114 @@
     const images_list = [
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-00.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-00.jpeg",
         "alt": "",
-        "name": "Step-00.jpeg",
+        "name": "step-00.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-01.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-01.jpeg",
         "alt": "",
-        "name": "Step-01.jpeg",
+        "name": "step-01.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-02.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-02.jpeg",
         "alt": "",
-        "name": "Step-02.jpeg",
+        "name": "step-02.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-03.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-03.jpeg",
         "alt": "",
-        "name": "Step-03.jpeg",
+        "name": "step-03.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-04.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-04.jpeg",
         "alt": "",
-        "name": "Step-04.jpeg",
+        "name": "step-04.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-05.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-05.jpeg",
         "alt": "",
-        "name": "Step-05.jpeg",
+        "name": "step-05.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-06.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-06.jpeg",
         "alt": "",
-        "name": "Step-06.jpeg",
+        "name": "step-06.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-07.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-07.jpeg",
         "alt": "",
-        "name": "Step-07.jpeg",
+        "name": "step-07.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-08.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-08.jpeg",
         "alt": "",
-        "name": "Step-08.jpeg",
+        "name": "step-08.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-09.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-09.jpeg",
         "alt": "",
-        "name": "Step-09.jpeg",
+        "name": "step-09.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-10.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-10.jpeg",
         "alt": "",
-        "name": "Step-10.jpeg",
+        "name": "step-10.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-11.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-11.jpeg",
         "alt": "",
-        "name": "Step-11.jpeg",
+        "name": "step-11.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-12.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-12.jpeg",
         "alt": "",
-        "name": "Step-12.jpeg",
+        "name": "step-12.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-13.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-13.jpeg",
         "alt": "",
-        "name": "Step-13.jpeg",
+        "name": "step-13.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-14.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step-14.jpeg",
         "alt": "",
-        "name": "Step-14.jpeg",
+        "name": "step-14.jpeg",
         "link": ""
     },
 
     {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-15.jpeg",
+        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/joomla_customization/step.stg",
         "alt": "",
-        "name": "Step-15.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-16.jpeg",
-        "alt": "",
-        "name": "Step-16.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-17.jpeg",
-        "alt": "",
-        "name": "Step-17.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-18.jpeg",
-        "alt": "",
-        "name": "Step-18.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-19.jpeg",
-        "alt": "",
-        "name": "Step-19.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-20.jpeg",
-        "alt": "",
-        "name": "Step-20.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-21.jpeg",
-        "alt": "",
-        "name": "Step-21.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-22.jpeg",
-        "alt": "",
-        "name": "Step-22.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-23.jpeg",
-        "alt": "",
-        "name": "Step-23.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-24.jpeg",
-        "alt": "",
-        "name": "Step-24.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-25.jpeg",
-        "alt": "",
-        "name": "Step-25.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-26.jpeg",
-        "alt": "",
-        "name": "Step-26.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-27.jpeg",
-        "alt": "",
-        "name": "Step-27.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-28.jpeg",
-        "alt": "",
-        "name": "Step-28.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-29.jpeg",
-        "alt": "",
-        "name": "Step-29.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-30.jpeg",
-        "alt": "",
-        "name": "Step-30.jpeg",
-        "link": ""
-    },
-
-    {
-        "url": "https://michaelwoodc.github.io/IT_Infrastructure_2/3_install_joomla/Step-31.jpeg",
-        "alt": "",
-        "name": "Step-31.jpeg",
+        "name": "step.stg",
         "link": ""
     }
     ];
